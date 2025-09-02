@@ -1,4 +1,5 @@
-
+{
+  "expo": {
   "name": "Conversor de Moedas",
   "slug": "conversor-de-moedas",
   "version": "1.0.0",
@@ -18,4 +19,5 @@
       "projectId": "e796ba5e-fb3b-470a-944a-a4dcb15e6645"
     }
   }
+ }
 }
