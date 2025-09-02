@@ -9,13 +9,23 @@
     ],
     "ios": {
       "bundleIdentifier": "com.conversordemoedas.app",
-      "icon": "./assets/conversordemoedas.png"
+      "icon": "./assets/conversordemoedas.png",
+      "splash": {
+        "image": "./conversordemoedas.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      }
     },
     "android": {
       "package": "com.conversordemoedas.app",
       "icon": "./conversordemoedas.png",
       "adaptiveIcon": {
         "foregroundImage": "./conversordemoedas.png",
+        "backgroundColor": "#ffffff"
+      },
+      "splash": {
+        "image": "./conversordemoedas.png",
+        "resizeMode": "contain",
         "backgroundColor": "#ffffff"
       }
     },
