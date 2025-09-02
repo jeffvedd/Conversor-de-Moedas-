@@ -9,7 +9,7 @@
     ],
     "ios": {
       "bundleIdentifier": "com.conversordemoedas.app",
-      "icon": "./assets/conversordemoedas.png",
+      "icon": "./conversordemoedas.png",
       "splash": {
         "image": "./conversordemoedas.png",
         "resizeMode": "contain",
