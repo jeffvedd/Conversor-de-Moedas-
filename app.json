@@ -13,9 +13,9 @@
     },
     "android": {
       "package": "com.conversordemoedas.app",
-      "icon": "./assets/conversordemoedas.png",
+      "icon": "./conversordemoedas.png",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/conversordemoedas.png",
+        "foregroundImage": "./conversordemoedas.png",
         "backgroundColor": "#ffffff"
       }
     },
