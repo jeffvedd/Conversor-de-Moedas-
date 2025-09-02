@@ -1,23 +1,29 @@
 {
   "expo": {
-  "name": "Conversor de Moedas",
-  "slug": "conversor-de-moedas",
-  "version": "1.0.0",
-  "platforms": [
-    "ios",
-    "android"
-  ],
-  "ios": {
-    "bundleIdentifier": "com.conversordemoedas.app"
-  },
-  "android": {
-    "package": "com.conversordemoedas.app"
-  },
-  "sdkVersion": "53.0.0",
-  "extra": {
-    "eas": {
-      "projectId": "e796ba5e-fb3b-470a-944a-a4dcb15e6645"
+    "name": "Conversor de Moedas",
+    "slug": "conversor-de-moedas",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.conversordemoedas.app",
+      "icon": "./assets/conversordemoedas.png"
+    },
+    "android": {
+      "package": "com.conversordemoedas.app",
+      "icon": "./assets/conversordemoedas.png",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/conversordemoedas.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "sdkVersion": "53.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "e796ba5e-fb3b-470a-944a-a4dcb15e6645"
+      }
     }
   }
- }
 }
